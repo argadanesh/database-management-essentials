@@ -11,6 +11,16 @@ The problems use the intercollegiate athletics database. The course website also
 * List the average number of resources used (NumberFld) by plan number. Include only location number L100.
 * List the average number of resources used (NumberFld) by plan number. Only include location number L100. Eliminate plans with less than two event lines containing location number L100.
 
+## Extra Problem: Module 4
+The extra problems use the Order Entry Database as described in the Order Entry Database Background document. The course website also contains Oracle and MySQL CREATE TABLE statements as well as INSERT statements.
+* List the customer number, the name (first and last), and the balance of customers.
+* List the customer number, the name (first and last), and the balance of customers who reside in Colorado (CustState is CO).
+* List all columns of the Product table for products costing more than $50.  Order the result by product manufacturer (ProdMfg) and product name.
+* List the customer number, the name (first and last), the city, and the balance of customers who reside in Denver with a balance greater than $150 or who reside in Seattle with a balance greater than $300. 
+* List the order number, order date, customer number, and customer name (first and last) of orders placed in January 2013 sent to Colorado recipients.
+* List the average balance of customers by city. Include only customers residing in Washington state (WA).
+* List the average balance and number of customers by city. Only include customers residing in Washington State (WA).  Eliminate cities in the result with less than two customers.
+
 ## Peer-graded Assignment: Module 4 Assignment
 
 ### Basic SELECT Statement Requirements
